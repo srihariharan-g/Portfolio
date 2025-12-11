@@ -149,7 +149,7 @@ document.addEventListener('DOMContentLoaded', function() {
         achievementItem.className = 'col-12 mb-3';
         achievementItem.innerHTML = `
             <div class="d-flex align-items-start animate-fade-in" style="animation-delay: ${index * 0.15}s">
-                <i class="fas fa-trophy text-warning me-3 mt-1"></i>
+                <i class="fas fa-arrow-circle-right text-warning me-3 mt-1"></i>
                 <p class="mb-0">${achievement}</p>
             </div>
         `;
