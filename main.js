@@ -56,7 +56,7 @@ const projects = [
         title: "Skill Swap - Skill Exchange Platform",
         description: "Built a web platform that enables users to exchange skills and knowledge. Implemented user authentication, skill matching algorithms, and real-time chat functionality.",
         tech: "React.js, Node.js, Express, MongoDB, Socket.io",
-        outcome: "Created a community-driven platform with 500+ registered users, facilitating knowledge sharing and skill development."
+        outcome: "Created a community-driven platform for users, facilitating knowledge sharing and skill development."
     },
     {
         title: "Web Interfaces for IoT Dashboards",
